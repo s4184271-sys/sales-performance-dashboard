@@ -1,4 +1,5 @@
-# Sales Performance Dashboard (Excel + VBA)
+
+## ⚠️ Note# Sales Performance Dashboard (Excel + VBA)
 
 An Excel dashboard built with pivot tables, pivot charts, slicers, and VBA macros to track and monitor daily sales performance of sales executives across regions.
 
@@ -38,7 +39,6 @@ This was my first Excel dashboard combining pivot tables with VBA automation. Th
 
 - `dashboard-1-styled.xlsm` — the dashboard workbook (macro-enabled)
 
-## ⚠️ Note
 
 Macros must be **enabled** when opening the file for the dashboard's filtering and auto-title features to work (Excel will prompt you to "Enable Content" on open).
 
